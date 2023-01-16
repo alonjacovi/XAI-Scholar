@@ -3,7 +3,7 @@
 Code and data for deriving empirical trends in XAI.
 
 ## Sources
-Please check the accompanying Medium blogpost and [Arxiv report](http://arxiv.org/abs/2301.05433).
+Please check the accompanying Medium blogpost (coming soon) and [Arxiv report](http://arxiv.org/abs/2301.05433).
 
 The data was collected as described in the above links. To recap, it is a mix of keyword search via SemanticScholar, and manual curation. The final collection has 5199 papers as of December 31st 2022.
 
